@@ -1,0 +1,225 @@
+material Material #1200.001/SOLID/TEX/ecsl.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.784314 0.784314 0.784314
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecsl.bmp
+			}
+		}
+	}
+}
+material DEFAULT.001/SOLID/TEX/ecsl.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.784314 0.784314 0.784314
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecsl.bmp
+			}
+		}
+	}
+}
+material FFG-SAM.001/SOLID/TEX/ecsl.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.800000 0.800000 0.807843
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecsl.bmp
+			}
+		}
+	}
+}
+material FFG-FRONT.001/SOLID/TEX/ecsl.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.784314 0.784314 0.784314
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecsl.bmp
+			}
+		}
+	}
+}
+material FFG-RADAR.001/SOLID/TEX/ecsl.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.196078 0.196078 0.196078
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecsl.bmp
+			}
+		}
+	}
+}
+material FFG-FUNNEL.001/SOLID/TEX/ecsl.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.784314 0.784314 0.784314
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecsl.bmp
+			}
+		}
+	}
+}
+material FFG-FENCING.001/SOLID/TEX/ecsl.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.784314 0.784314 0.784314
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecsl.bmp
+			}
+		}
+	}
+}
+material FFG-LADDER.001/SOLID/TEX/ecsl.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.784314 0.784314 0.784314
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecsl.bmp
+			}
+		}
+	}
+}
+material FFG-LB-COVER.001/SOLID/TEX/ecsl.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.392157 0.392157 0.392157
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecsl.bmp
+			}
+		}
+	}
+}
+material FFG-WHITE-SMOOT.001/SOLID/TEX/ecsl.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.925490 0.925490 0.925490
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecsl.bmp
+			}
+		}
+	}
+}
+material FFG-DM_RED.001/SOLID/TEX/ecsl.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.643137 0.200000 0.050980
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecsl.bmp
+			}
+		}
+	}
+}
+material FFG-HULL.001/SOLID/TEX/ecsl.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.568627 0.568627 0.588235
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecsl.bmp
+			}
+		}
+	}
+}
+material FFG-SS_DARK.001/SOLID/TEX/ecsl.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.568627 0.568627 0.568627
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecsl.bmp
+			}
+		}
+	}
+}
+material FFG-DM.001/SOLID/TEX/ecsl.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.933333 0.941176 0.949020
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecsl.bmp
+			}
+		}
+	}
+}
+material FFG-LIFEBOAT.001/SOLID/TEX/ecsl.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.658824 0.709804 0.760784
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecsl.bmp
+			}
+		}
+	}
+}

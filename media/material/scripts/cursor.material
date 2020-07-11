@@ -1,0 +1,34 @@
+material ECSLENT/cursor/yellow
+{
+	technique
+	{
+		pass
+		{
+			lighting off
+			scene_blend alpha_blend
+			depth_check off
+
+			texture_unit
+			{
+				texture yellowCursor.png
+			}
+		}
+	}
+}
+material ECSLENT/cursor/orange
+{
+	technique
+	{
+		pass
+		{
+			lighting off
+			scene_blend alpha_blend
+			depth_check off
+
+			texture_unit
+			{
+				texture orangeCursor.png
+			}
+		}
+	}
+}

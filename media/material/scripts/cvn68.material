@@ -1,0 +1,195 @@
+material DEF_1/SOLID/TEX/ecslDark.bmp/VertCol
+{
+	technique
+	{
+		pass
+		{
+			diffuse vertexcolour
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslDark.bmp
+			}
+		}
+	}
+}
+material DECK_WHITE/SOLID/TEX/ecslDark.bmp/VertCol
+{
+	technique
+	{
+		pass
+		{
+			diffuse vertexcolour
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslDark.bmp
+			}
+		}
+	}
+}
+material RED/SOLID/TEX/ecslDark.bmp/VertCol
+{
+	technique
+	{
+		pass
+		{
+			diffuse vertexcolour
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslDark.bmp
+			}
+		}
+	}
+}
+material DEF_4/SOLID/TEX/ecslDark.bmp/VertCol
+{
+	technique
+	{
+		pass
+		{
+			diffuse vertexcolour
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslDark.bmp
+			}
+		}
+	}
+}
+material YELLOW/SOLID/TEX/ecslDark.bmp/VertCol
+{
+	technique
+	{
+		pass
+		{
+			diffuse vertexcolour
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslDark.bmp
+			}
+		}
+	}
+}
+material HULL/SOLID/TEX/ecslDark.bmp/VertCol
+{
+	technique
+	{
+		pass
+		{
+			diffuse vertexcolour
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslDark.bmp
+			}
+		}
+	}
+}
+material FLIGHT-DECK/SOLID/TEX/ecslDark.bmp/VertCol
+{
+	technique
+	{
+		pass
+		{
+			diffuse vertexcolour
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslDark.bmp
+			}
+		}
+	}
+}
+material ATT_ARRAY/SOLID/TEX/ecslDark.bmp/VertCol
+{
+	technique
+	{
+		pass
+		{
+			diffuse vertexcolour
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslDark.bmp
+			}
+		}
+	}
+}
+material PADSBOX211/SOLID/TEX/ecslDark.bmp/VertCol
+{
+	technique
+	{
+		pass
+		{
+			diffuse vertexcolour
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslDark.bmp
+			}
+		}
+	}
+}
+material CLUTTER/SOLID/TEX/ecslDark.bmp/VertCol
+{
+	technique
+	{
+		pass
+		{
+			diffuse vertexcolour
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslDark.bmp
+			}
+		}
+	}
+}
+material CAT-TRACK/SOLID/TEX/ecslDark.bmp/VertCol
+{
+	technique
+	{
+		pass
+		{
+			diffuse vertexcolour
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslDark.bmp
+			}
+		}
+	}
+}
+material WHITE/SOLID/TEX/ecslDark.bmp/VertCol
+{
+	technique
+	{
+		pass
+		{
+			diffuse vertexcolour
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslDark.bmp
+			}
+		}
+	}
+}
+material DEF_2/SOLID/TEX/ecslDark.bmp/VertCol
+{
+	technique
+	{
+		pass
+		{
+			diffuse vertexcolour
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslDark.bmp
+			}
+		}
+	}
+}

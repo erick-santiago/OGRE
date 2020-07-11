@@ -1,0 +1,225 @@
+material Deck/SOLID/TEX/ecslHorizontal.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.372549 0.435294 0.501961
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslHorizontal.bmp
+			}
+		}
+	}
+}
+material C000015/SOLID/TEX/ecslHorizontal.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.341176 0.341176 0.341176
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslHorizontal.bmp
+			}
+		}
+	}
+}
+material C000012/SOLID/TEX/ecslHorizontal.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.905882 0.905882 0.905882
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslHorizontal.bmp
+			}
+		}
+	}
+}
+material C000018/SOLID/TEX/ecslHorizontal.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.529412 0.529412 0.529412
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslHorizontal.bmp
+			}
+		}
+	}
+}
+material C000016/SOLID/TEX/ecslHorizontal.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.466667 0.466667 0.466667
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslHorizontal.bmp
+			}
+		}
+	}
+}
+material C000005/SOLID/TEX/ecslHorizontal.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslHorizontal.bmp
+			}
+		}
+	}
+}
+material C000002/SOLID/TEX/ecslHorizontal.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.623529 0.623529 0.623529
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslHorizontal.bmp
+			}
+		}
+	}
+}
+material C000003/SOLID/TEX/ecslHorizontal.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.160784 0.160784 0.160784
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslHorizontal.bmp
+			}
+		}
+	}
+}
+material C000000/SOLID/TEX/ecslHorizontal.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.160784 0.160784 0.160784
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslHorizontal.bmp
+			}
+		}
+	}
+}
+material C000011/SOLID/TEX/ecslHorizontal.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.403922 0.403922 0.403922
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslHorizontal.bmp
+			}
+		}
+	}
+}
+material C000006/SOLID/TEX/ecslHorizontal.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.270588 0.270588 0.270588
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslHorizontal.bmp
+			}
+		}
+	}
+}
+material C000017/SOLID/TEX/ecslHorizontal.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.309804 0.309804 0.309804
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslHorizontal.bmp
+			}
+		}
+	}
+}
+material C000007/SOLID/TEX/ecslHorizontal.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.529412 0.529412 0.529412
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslHorizontal.bmp
+			}
+		}
+	}
+}
+material C000004/SOLID/TEX/ecslHorizontal.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.560784 0.560784 0.560784
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslHorizontal.bmp
+			}
+		}
+	}
+}
+material C000013/SOLID/TEX/ecslHorizontal.bmp
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.905882 0.905882 0.905882
+			specular 0.500000 0.500000 0.500000 12.500000
+			texture_unit
+			{
+				texture ecslHorizontal.bmp
+			}
+		}
+	}
+}

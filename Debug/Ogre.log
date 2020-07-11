@@ -1,0 +1,28 @@
+00:05:08: Creating resource group General
+00:05:08: Creating resource group Internal
+00:05:08: Creating resource group Autodetect
+00:05:08: SceneManagerFactory for type 'DefaultSceneManager' registered.
+00:05:08: Registering ResourceManager for type Material
+00:05:08: Registering ResourceManager for type Mesh
+00:05:08: Registering ResourceManager for type Skeleton
+00:05:08: MovableObjectFactory for type 'ParticleSystem' registered.
+00:05:08: ArchiveFactory for archive type FileSystem registered.
+00:05:08: ArchiveFactory for archive type Zip registered.
+00:05:08: ArchiveFactory for archive type EmbeddedZip registered.
+00:05:08: DDS codec registering
+00:05:08: FreeImage version: 3.17.0
+00:05:08: This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+00:05:08: Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,cut,xbm,xpm,gif,hdr,g3,sgi,rgb,rgba,bw,exr,j2k,j2c,jp2,pfm,pct,pict,pic,3fr,arw,bay,bmq,cap,cine,cr2,crw,cs1,dc2,dcr,drf,dsc,dng,erf,fff,ia,iiq,k25,kc2,kdc,mdc,mef,mos,mrw,nef,nrw,orf,pef,ptx,pxn,qtk,raf,raw,rdc,rw2,rwl,rwz,sr2,srf,srw,sti,x3f,webp,jxr,wdp,hdp
+00:05:08: Registering ResourceManager for type HighLevelGpuProgram
+00:05:08: Registering ResourceManager for type Compositor
+00:05:08: MovableObjectFactory for type 'Entity' registered.
+00:05:08: MovableObjectFactory for type 'Light' registered.
+00:05:08: MovableObjectFactory for type 'BillboardSet' registered.
+00:05:08: MovableObjectFactory for type 'ManualObject' registered.
+00:05:08: MovableObjectFactory for type 'BillboardChain' registered.
+00:05:08: MovableObjectFactory for type 'RibbonTrail' registered.
+00:05:08: OGRE EXCEPTION(6:FileNotFoundException): 'plugins.cfg' file not found! in ConfigFile::load at /home/esantiago/Downloads/ogre/OgreMain/src/OgreConfigFile.cpp (line 82)
+00:05:08: plugins.cfg not found, automatic plugin loading disabled.
+00:05:08: *-*-* OGRE Initialising
+00:05:08: *-*-* Version 1.9.0 (Ghadamon)
+00:05:08: OGRE EXCEPTION(6:FileNotFoundException): 'resources.cfg' file not found! in ConfigFile::load at /home/esantiago/Downloads/ogre/OgreMain/src/OgreConfigFile.cpp (line 82)
