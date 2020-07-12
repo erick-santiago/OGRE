@@ -11,11 +11,7 @@
 #include "Enums.h"
 
 #include <OgreEntity.h>
-//#include <OgreConfigFile.h>
-//#include "OgreRenderWindow.h"
 #include <OgreSceneManager.h>
-//#include <OgreCamera.h>
-//#include "OgreViewport.h"
 #include <iostream>
 
 #include <OgreException.h>
