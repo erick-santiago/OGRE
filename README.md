@@ -1,5 +1,5 @@
 # OGRE
-Simple game mechanics with custom game engine architecture using OGRE framework 
+Custom game engine architecture and simple game mechanics utilizing OGRE framework 
 
 ![GAMEPLAY](readmeSources/GAME_KINEMATICS.png "GAMEPLAY")
 
